@@ -1,0 +1,15 @@
+C:\Users\toshiba\source\repos\Articulos Prestados\bin\Debug\Articulos Prestados.exe.config
+C:\Users\toshiba\source\repos\Articulos Prestados\bin\Debug\Articulos Prestados.exe
+C:\Users\toshiba\source\repos\Articulos Prestados\bin\Debug\Articulos Prestados.pdb
+C:\Users\toshiba\source\repos\Articulos Prestados\obj\Debug\Articulos Prestados.csproj.AssemblyReference.cache
+C:\Users\toshiba\source\repos\Articulos Prestados\obj\Debug\Articulos_Prestados.Properties.Resources.resources
+C:\Users\toshiba\source\repos\Articulos Prestados\obj\Debug\Articulos Prestados.csproj.GenerateResource.cache
+C:\Users\toshiba\source\repos\Articulos Prestados\obj\Debug\Articulos Prestados.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\source\repos\Articulos Prestados\obj\Debug\Articulos Prestados.exe
+C:\Users\toshiba\source\repos\Articulos Prestados\obj\Debug\Articulos Prestados.pdb
+C:\Users\toshiba\source\repos\Articulos Prestados\obj\Debug\Articulos_Prestados.Menu.resources
+C:\Users\toshiba\source\repos\Articulos Prestados\obj\Debug\Articulos_Prestados.Prestamos.resources
+C:\Users\toshiba\source\repos\Articulos Prestados\obj\Debug\Articulos_Prestados.Articulos.resources
+C:\Users\toshiba\source\repos\Articulos Prestados\obj\Debug\Articulos_Prestados.Usuario.resources
+C:\Users\toshiba\source\repos\Articulos Prestados\obj\Debug\Articulos_Prestados.Prestacion.resources
+C:\Users\toshiba\source\repos\Articulos Prestados\obj\Debug\Articulos_Prestados.Devolucion.resources
